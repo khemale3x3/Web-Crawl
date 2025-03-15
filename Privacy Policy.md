@@ -1,6 +1,6 @@
 Privacy Policy
 What is the scope of this Privacy Policy?
-This Privacy Policy (“Policy”) is incorporated into Web Ale Terms of Service and License Agreement located at (the “Terms of Service”) and applies to the information obtained by us through your use of Web Ale Website, Portal, Software (including browser extensions), and Services as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+This Privacy Policy (“Policy”) is incorporated into Ale Terms of Service and License Agreement located at (the “Terms of Service”) and applies to the information obtained by us through your use of Web Ale Website, Portal, Software (including browser extensions), and Services as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 Information collection and use
 What Information does Web Ale collect about me?
 When you interact with our Site, Software, and/or Services, we collect Information that, alone or in combination with other data, could be used to identify you (“Personal Data”). Some of the Information we collect is stored in a manner that cannot be linked back to you (“Non-Personal Data”).
@@ -53,5 +53,5 @@ If Web Ale learns of a security system breach, we may attempt to notify you and 
 Will this Privacy Policy ever change?
 As Web Ale evolves, we may need to update this Policy to keep pace with changes in our Site, Software, and Services, our business, and laws applicable to us and you. We will, however, always maintain our commitment to respect your privacy. We will post any other revisions to this Policy, along with their effective date, in an easy-to-find area of the Site, so we recommend that you periodically check back here to stay informed of any changes. Please note that your continued use of Web Ale after any change means that you agree with, and consent to be bound by, the new Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to it, you will need to delete your Web Ale account.
 Contact us 
-You may contact us with any questions relating to this Privacy Policy by submitting a contact form  or by postal mail at:
+You may contact us with any questions relating to this Privacy Policy by submitting a contact form  or by postal mail at: @le
 
